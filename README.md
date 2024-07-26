@@ -12,7 +12,7 @@
       <p></p>Contact with me click on Contact</p>
       <div class="ribbon"></div>
       <div class="tag">
-        <a href="Dev/Contact=link"> Contact ♥️</a>
+        <a href="Dev/Contact?link"> Contact ♥️</a>
       </div>
     </div>
   </body>
