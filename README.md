@@ -12,7 +12,7 @@
       <p></p>Contact with me click on Contact</p>
       <div class="ribbon"></div>
       <div class="tag">
-        <a href="Dev/Contact"> Contact ♥️</a>
+        <a href=webbrowser.open("Dev/Contact=link")> Contact ♥️</a>
       </div>
     </div>
   </body>
