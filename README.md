@@ -3,7 +3,8 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    Bᴏᴏᴋ Fᴏʀ Uɴɴᴀᴛɪ 🙃💗🌸 <span>
+    Bᴏᴏᴋ Fᴏʀ Uɴɴᴀᴛɪ 🙃💗🌸 </span>
+    <img src="IMG/love.jpg" height="350" width="290" alt="">
     <link rel="stylesheet" href="dev.css" />
   </head>
   <body>
