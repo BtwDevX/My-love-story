@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Bᴏᴏᴋ Fᴏʀ Uɴɴᴀᴛɪ 🙃💗🌸</title>
+    Bᴏᴏᴋ Fᴏʀ Uɴɴᴀᴛɪ 🙃💗🌸 <span>
     <link rel="stylesheet" href="dev.css" />
   </head>
   <body>
