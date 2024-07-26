@@ -4,15 +4,15 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     Bᴏᴏᴋ Fᴏʀ Uɴɴᴀᴛɪ 🙃💗🌸 </span>
-    <img src="IMG/love.jpg" height="350" width="290" alt="">
+    <img src="IMG/love.jpg" height="1080" width="1655" alt="">
     <link rel="stylesheet" href="dev.css" />
   </head>
   <body>
     <div class="container">
-      <p>Uɴɴᴀᴛɪ ᴩʟᴇᴀꜱᴇ ᴄʟɪᴄᴋ ᴏɴ Unnati ɪ"ᴠᴇ ᴍᴀᴅᴇ ꜱᴏᴍᴇᴛʜɪɴɢ ᴛᴏ ᴍᴀᴋᴇ ʏᴏᴜ ꜰᴇᴇʟ ꜱᴩᴇᴄɪᴀʟ</p>
+      <p></p>Contact with me click on Contact</p>
       <div class="ribbon"></div>
       <div class="tag">
-        <a href="book.html"> Unnati ♥️</a>
+        <a href="Yoo_alex.t.me"> Contact ♥️</a>
       </div>
     </div>
   </body>
